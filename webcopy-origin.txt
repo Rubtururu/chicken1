@@ -1,0 +1,92 @@
+Uri: https://chickenhunt.io/
+File Name: C:\Downloaded Web Sites\chickenhunt.io\index.htm
+Content Type: text/html
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\chickenhunt.io\bootstrap\4.0.0\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://chickenhunt.io/favicon.ico
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://chickenhunt.io/favicon-152-precomposed.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-152-precomposed.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/favicon-144-precomposed.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-144-precomposed.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/favicon-120-precomposed.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-120-precomposed.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/favicon-114-precomposed.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-114-precomposed.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/favicon-180-precomposed.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-180-precomposed.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/favicon-72-precomposed.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-72-precomposed.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/favicon-57.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-57.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/favicon-32.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-32.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/manifest.json
+File Name: C:\Downloaded Web Sites\chickenhunt.io\manifest.json
+Content Type: application/json
+
+Uri: https://chickenhunt.io/favicon-192.png
+File Name: C:\Downloaded Web Sites\chickenhunt.io\favicon-192.png
+Content Type: image/png
+
+Uri: https://chickenhunt.io/static/css/app.fcb5d166f9dc6d0f7ce1229b9ff94c7e.css
+File Name: C:\Downloaded Web Sites\chickenhunt.io\static\css\app.fcb5d166f9dc6d0f7ce1229b9ff94c7e.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-121409999-1
+File Name: C:\Downloaded Web Sites\chickenhunt.io\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.2.1.slim.min.js
+File Name: C:\Downloaded Web Sites\chickenhunt.io\jquery-3.2.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\chickenhunt.io\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\chickenhunt.io\bootstrap\4.0.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://chickenhunt.io/static/js/manifest.2ae2e69a05c33dfc65f8.js
+File Name: C:\Downloaded Web Sites\chickenhunt.io\static\js\manifest.2ae2e69a05c33dfc65f8.js
+Content Type: application/javascript
+
+Uri: https://chickenhunt.io/static/js/vendor.14edeab8f08817e416a8.js
+File Name: C:\Downloaded Web Sites\chickenhunt.io\static\js\vendor.14edeab8f08817e416a8.js
+Content Type: application/javascript
+
+Uri: https://chickenhunt.io/static/js/app.6e49325eb70b609bda2a.js
+File Name: C:\Downloaded Web Sites\chickenhunt.io\static\js\app.6e49325eb70b609bda2a.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700
+File Name: C:\Downloaded Web Sites\chickenhunt.io\css.css
+Content Type: text/css
+
+Uri: https://chickenhunt.io/logo.svg
+File Name: C:\Downloaded Web Sites\chickenhunt.io\logo.svg
+Content Type: image/svg+xml
+
